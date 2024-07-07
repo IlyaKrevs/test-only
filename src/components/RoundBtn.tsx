@@ -75,7 +75,7 @@ const SpecialControlBtn = styled(StyledControlBtn)`
 `
 
 
-export const RoundBtn: React.FC<IProps> = ({ isDisable, isLeft: isLeft, isSpecial, handler }) => {
+export const RoundBtn: React.FC<IProps> = ({ isDisable, isLeft, isSpecial, handler }) => {
     return (
         <>
             {!isSpecial ?

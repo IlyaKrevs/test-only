@@ -1,4 +1,4 @@
-# https://github.com/IlyaKrevs/test-only/settings/pages
+# https://ilyakrevs.github.io/test-only/
 
 ### install
 - clone repo
